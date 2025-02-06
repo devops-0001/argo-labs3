@@ -6,5 +6,5 @@ resources:
 - preview-service.yaml
 images:
 - name: schoolofdevops/vote
-  newName: schoolofdevops/vote
-  newTag: v2
+  newName: initcron/vote
+  newTag: 9fa64f7
